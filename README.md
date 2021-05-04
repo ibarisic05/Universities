@@ -40,13 +40,14 @@ Za vježbu će se koristiti [Alamofire](https://github.com/Alamofire/Alamofire) 
 
 
 ### Prikaz screen-ova
-1. [Popis sveučilišta](https://raw.githubusercontent.com/ibarisic05/MyDestinations/master/photos/lista_destinacija.png)
+1. [Popis sveučilišta](https://raw.githubusercontent.com/ibarisic05/Universities/main/photos/university-list.png)
+2. [Prikaz greške](https://raw.githubusercontent.com/ibarisic05/Universities/main/photos/error-message.png)
 
 # Korisni linkovi
 
--  [Struct and Class](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html) - dodatne informacije o klasama i strukturama
+- [Struct and Class](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html) - dodatne informacije o klasama i strukturama
 
--  [UITableView](https://developer.apple.com/documentation/uikit/uitableview) - dokumentacija za UITableView
+- [UITableView](https://developer.apple.com/documentation/uikit/uitableview) - dokumentacija za UITableView
 
 - [Package Manager](https://swift.org/package-manager/) - detaljan opis Swift Package Managera
 
