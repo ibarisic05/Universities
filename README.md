@@ -26,7 +26,7 @@ Za vježbu će se koristiti [Alamofire](https://github.com/Alamofire/Alamofire) 
 
 - Koristeći Alamofire dohvatiti podatke sa linka (link je `GET` request i na istome nema autorizacije): `http://universities.hipolabs.com/search?country=croatia`
 
-- U odgovoru sa servera, na `Background Thread-u` napraviti provjeru da li je odgovor ispravan ili smo dobili grešku, u slučaju greške istu ispisati
+- U odgovoru sa servera napraviti provjeru da li je odgovor ispravan ili smo dobili grešku, u slučaju greške istu ispisati
 
 - Kreirati objekt `University` i u istom definirati varijable `name`, `url` i `country`, prilikom inicijalizacije parametara koristeći `SwiftyJSON` dodijeliti varijablama pripadajuću vrijednost.
 
